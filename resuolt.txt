@@ -1,0 +1,15 @@
+CULTURE, IN RICH AND HISTORY STEEPED LAND A ISRAEL, CULTURE A,
+
+,culture, history steeped Israel, culture ,
+
+,{word: culture,,vowelCount: 3}
+,{word: in,vowelCount: 1}
+,{word: rich,vowelCount: 1}
+,{word: and,vowelCount: 1}
+,{word: history,vowelCount: 2}
+,{word: steeped,vowelCount: 3}
+,{word: land,vowelCount: 1}
+,{word: a,vowelCount: 1}
+,{word: Israel,,vowelCount: 3}
+,{word: culture,vowelCount: 3}
+,{word: A,vowelCount: 1}
